@@ -5,3 +5,8 @@ body{
     background-size: contain; /* hoặc background-size: 50%; */
     background-position: center;
 }
+.content h1{
+    font-size: 35px;
+    font-family: Ariel;
+    
+}
