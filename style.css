@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: url(emerald.png) no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 section{
