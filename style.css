@@ -2,5 +2,6 @@ body{
     margin: 0;
     padding: 0;
     background: url(images/emerald.png) no-repeat;
-    background-size: cover;
+    background-size: contain; /* hoặc background-size: 50%; */
+    background-position: center;
 }
