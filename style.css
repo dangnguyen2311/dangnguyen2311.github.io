@@ -4,9 +4,15 @@ body{
     background: url(media/emerald.png) no-repeat;
     background-size: contain; /* hoặc background-size: 50%; */
     background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Đặt nội dung ở giữa theo chiều dọc */
+    align-items: center;
 }
 .content h1{
     font-size: 35px;
     font-family: Ariel;
+    margin-top: 50px; /* Khoảng cách từ trên xuống (tuỳ chỉnh theo yêu cầu) */
+    text-align: center; 
     
 }
