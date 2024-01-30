@@ -2,18 +2,27 @@ body{
     margin: 0;
     padding: 0;
     background: url(media/emerald.png) no-repeat;
-    background-size: contain; /* hoặc background-size: 50%; */
+    background-size: contain; 
     background-position: center;
 }
+.my_profile{
+    width: 350px;
+    border-radius: 10%;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 80px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
 .my_profile h1{
-    font-size: 35px;
-    font-family: Ariel;
+    font-size: 40px;
     text-align: center; 
-    
 }
 .my_profile h2{
     font-size: 28px;
-    font-family: Ariel;
     text-align: center; 
     
 }
