@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/emerald.jpg');
+    background-image: url('images/emerald.jpg');
     background-size: cover; /* Để đảm bảo hình ảnh nền được kích thước đúng */
     background-position: center; /* Để canh chỉnh vị trí của hình ảnh nền */
     background-repeat: no-repeat; /* Không lặp lại hình ảnh nền */
