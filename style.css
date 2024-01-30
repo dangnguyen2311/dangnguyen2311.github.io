@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: url(media/emerald.png) no-repeat;
-    background-size: cover; /* hoặc background-size: 50%; */
+    background-size: contain; /* hoặc background-size: 50%; */
     background-position: center;
 }
 .my_profile h1{
