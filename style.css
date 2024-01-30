@@ -2,15 +2,15 @@ body{
     margin: 0;
     padding: 0;
     background: url(media/emerald.png) no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 section{
     font-family: Arial, sans-serif;
     padding: 0;
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 10px;
-    margin: 50px auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    margin: 40px auto;
     max-width: 600px;
     
 }
