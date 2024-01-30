@@ -5,13 +5,13 @@ body{
     background-size: cover; /* hoặc background-size: 50%; */
     background-position: center;
 }
-.content h1{
+.my_profile h1{
     font-size: 35px;
     font-family: Ariel;
     text-align: center; 
     
 }
-.content h2{
+.my_profile h2{
     font-size: 28px;
     font-family: Ariel;
     text-align: center; 
